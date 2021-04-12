@@ -10,3 +10,6 @@ to run locally, first install yarn. then:
 $ yarn install && yarn dev
 ```
 
+## Website
+
+https://whatsapp-copy.vercel.app

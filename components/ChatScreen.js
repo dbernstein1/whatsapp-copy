@@ -179,7 +179,7 @@ const HeaderInformation = styled.div`
 const MessageContainer = styled.div`
   padding: 30px;
   // background-color: #e5ded8;
-  background-image: url("https://i.pinimg.com/originals/79/5c/ab/795cabc4647f73b365e2e6eabd0f34dc.png");
+  background-image: url("https://i.pinimg.com/originals/ab/ab/60/abab60f06ab52fa7846593e6ae0c9a0b.png");
   min-height: 90vh;
 `;
 

@@ -1,3 +1,7 @@
+## Whatsapp Copy
+
+Webpage recreation of whatsapp
+
 ## Running Locally
 
 to run locally, first install yarn. then:
